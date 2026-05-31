@@ -3,9 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
-# Hey, I'm SRAVANI GURRAM!
+# Hey, I'm Sravani Gurram!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Software%20Developer%202;diving%20deep%20into%20the%20world%20of%20AI...;Based%20Texas%2C%20USA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Software%20Developer%20Based%20Texas%2C%20USA)](https://git.io/typing-svg)
 
 </div>
 
