@@ -5,7 +5,7 @@
 
 # Hey, I'm Sravani Gurram!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Software%20Developer%20Based%20Texas%2C%20USA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software%20Developer,%20Texas%20USA)](https://git.io/typing-svg)
 
 </div>
 
