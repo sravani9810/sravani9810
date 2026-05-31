@@ -1,6 +1,15 @@
-<h3 align="center">👋 Hi there, I'm SRAVANI GURRAM</h3>
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+
+# Hey, I'm SRAVANI GURRAM!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Software%20Developer%202;diving%20deep%20into%20the%20world%20of%20AI...;Based%20Texas%2C%20USA)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center"> •
   <a href="sravani9810@gmail.com">EMail</a> •
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/sravani-gurram-103716173">LinkedIn</a> •
   <a href="https://github.com/https://github.com/sravani9810">GitHub</a>
@@ -17,6 +26,7 @@ Passionate about crafting scalable web applications, I bring 5 years of experien
 - 💬 Ask me about: **Architecting scalable applications, DevOps practices for CI/CD, and Agile methodologies.**
 - 📍 Based in: **Texas, USA**
 - 📫 Reach me: [sravani9810@gmail.com](mailto:sravani9810@gmail.com)
-- ⚡ Fun fact: I'm an avid traveler who believes every codebase has a story to tell—just like every destination!
 
 ---
+
+"The secret of making progress is getting started. The secret of getting started is breaking your complex overwhelming tasks into small manageable tasks, and starting on the first one." — Mark Twain
