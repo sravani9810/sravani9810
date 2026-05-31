@@ -11,8 +11,8 @@
 
 <p align="center"> •
   <a href="sravani9810@gmail.com">EMail</a> •
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/sravani-gurram-103716173">LinkedIn</a> •
-  <a href="https://github.com/https://github.com/sravani9810">GitHub</a>
+  <a href="https://www.linkedin.com/in/sravani-gurram-103716173">LinkedIn</a> •
+  <a href="https://github.com/sravani9810">GitHub</a>
 </p>
 
 ---
