@@ -17,7 +17,7 @@
 
 ---
 
-Passionate about crafting scalable web applications, I bring 5 years of experience in writing clean code and solving intricate business challenges. My journey primarily unfolds in private production repos, but I'm always excited to connect and collaborate with fellow tech enthusiasts!
+Passionate about crafting scalable web applications, I bring 6 years of experience in writing clean code and solving intricate business challenges. My journey primarily unfolds in private production repos, but I'm always excited to connect and collaborate with fellow tech enthusiasts!
 
 ---
 
